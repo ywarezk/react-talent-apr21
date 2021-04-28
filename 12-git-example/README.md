@@ -1,7 +1,7 @@
 # Git
 
 - local repository
-2
+3
 - remote repository
 
 ## Grab the project to your computer
@@ -10,6 +10,7 @@
 > git clone https://github.com/ywarezk/react-talent-apr21.git
 2
 > cd react-talent-apr21
+1
 > npm install
 2
 > code .
