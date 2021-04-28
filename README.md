@@ -2,7 +2,14 @@
 
 ## Client demands
 
-The client requested knowledge in the following topics
+The client requested knowledge in the following topics:
+
+UI development Syllabus as follow. it is detailed but this is what we expect
+
+- Programming Languages : HTML5, CSS3, SASS, JS
+- EMCAScript 6, React and Redux, NodeJS, Bootstrap
+- automation tools and CI/CD
+- development tools : Rally / Gira, Perforce/ GIT, Jenkins, QC, Weblogic/ Tomcat, Webpack
 
 ### Javascript
 
