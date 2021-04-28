@@ -11,6 +11,7 @@
 2
 > cd react-talent-apr21
 > npm install
+2
 > code .
 ```
 
