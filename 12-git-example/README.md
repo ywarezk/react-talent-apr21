@@ -1,6 +1,7 @@
 # Git
 
 - local repository
+2
 - remote repository
 
 ## Grab the project to your computer
