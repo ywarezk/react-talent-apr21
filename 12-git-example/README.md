@@ -10,6 +10,7 @@
 > git clone https://github.com/ywarezk/react-talent-apr21.git
 1
 > cd react-talent-apr21
+1
 > npm install
 > code .
 ```
